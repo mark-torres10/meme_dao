@@ -1,2 +1,3 @@
-# meme_dao
-Beginner DAO project, to learn more about creating DAOs
+# MemeDAO
+
+DAO that revolves around memes. Details TBD.
